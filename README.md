@@ -33,7 +33,7 @@
 </div>
 <br/>
 
-<div align="center"> :seedling: 𝑼𝒔𝒆𝒅 𝒂𝒕 𝒍𝒆𝒂𝒔𝒕 𝒐𝒏𝒄𝒆 </div>
+<div align="center"> 🌱 𝑼𝒔𝒆𝒅 𝒂𝒕 𝒍𝒆𝒂𝒔𝒕 𝒐𝒏𝒄𝒆  🐾 </div>
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a> 
@@ -44,7 +44,7 @@
 </div>
 <br/>
 
-<div align="center"> 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝑻𝒐𝒐𝒍 </div>
+<div align="center"> 🔈 𝑪𝒐𝒎𝒎𝒖𝒏𝒊𝒄𝒂𝒕𝒊𝒐𝒏 𝑻𝒐𝒐𝒍 👂 </div>
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
@@ -55,7 +55,7 @@
 <br/>
 
 ## Activity.
-portfolio coming soon
+••• 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐂𝐨𝐦𝐦𝐢𝐧𝐠 𝐒𝐨𝐨𝐧 •••
 <br/>
 
 
@@ -79,6 +79,7 @@ portfolio coming soon
 
 
 ## Resume.
+••• 𝐑𝐞𝐬𝐮𝐦𝐞 𝐂𝐨𝐦𝐦𝐢𝐧𝐠 𝐒𝐨𝐨𝐧 •••
 <br/>
 
 
