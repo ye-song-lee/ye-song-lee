@@ -8,7 +8,7 @@
 
 <!-- BODY CODE -->
 ## Skill.
-<div align="center"> :cloud: 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 / 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌 :computer: </div>
+<div align="center"> ☁️: 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌 / 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌 💻 </div>
 <div align="center">
   <br/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
