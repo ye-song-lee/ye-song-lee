@@ -61,6 +61,11 @@
 <br/>
 
 ## Activity.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ye-song-lee&layout=compact)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=dough522)](https://velog.io/@dough522)
+<!--[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=dough522)](https://github.com/eungyeole/velog-readme-stats)-->
+<br>
+
 ••• 𝐏𝐨𝐫𝐭𝐟𝐨𝐥𝐢𝐨 𝐂𝐨𝐦𝐦𝐢𝐧𝐠 𝐒𝐨𝐨𝐧 •••
 <br/>
 
